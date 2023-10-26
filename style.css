@@ -2,10 +2,6 @@ html {
     background: #ff785a;
 }
 
-/* Bonus */
-html:hover .spider {
-    top: -120%;
-}
 
 .spider {
     position: absolute;
